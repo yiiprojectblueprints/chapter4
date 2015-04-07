@@ -1,0 +1,9 @@
+/assets/*
+!/assets/.gitignore
+/protected/runtime/*
+/protected/config/params.php
+.htaccess
+*.*~
+*.swp
+/vendor/*
+composer.lock
